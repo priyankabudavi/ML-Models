@@ -13,11 +13,10 @@ We are a Team of four students and below are the details.
 ## Table of Contents
 * [Overview](#Overview)
 * [The project status](#The-project-status)
-  + [Stage 1 Enrichment Data assignment Information](#stage-1-information-about-the-assigned-enrichment-datasets)
+  + [Stage 1 Stage I - Data Understanding and Linking](#Stage I - Data Understanding and Linking)
   + [Stage 2 Data Modeling](#stage-2-data-modeling)
-  + [Stage 3 Hypothesis and Distribution](#stage-3-Hypothesis-and-Distribution)
-  + [Stage 4 Basic Machine Learning](#stage-4-Basic-Machine-Learning)
-  + [Stage 5 Dashboard](#stage-5-Dasboard)
+  + [Stage 3 Distributions and Hypothesis Testing](#stage-3-Distributions and Hypothesis Testing)
+  + [Stage 4 Dashboard](#stage-4-Dasboard)
   
 * [Technologies](#Technologies)
 * [Setup](#Setup)
