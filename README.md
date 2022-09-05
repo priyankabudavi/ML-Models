@@ -1,13 +1,13 @@
 
-# Spring-22_COVID-Team_4
+# Fall2022_OPIOD_Team
 
-We are a Team of five students and below are the details. 
+We are a Team of four students and below are the details. 
 
 <li>Priyanka  Budavi - Graduate</li>
 <li> Aditi Darandale - Graduate</li>
 <li> Manish Shah - Graduate</li>
-<li> Reetika Sarkar  - PhD </li>
-<li> Kyle  Killworth - PhD </li>
+<li> Raveena Rakesh Arasikere  - Graduate</li>
+
 
 
 ## Table of Contents
