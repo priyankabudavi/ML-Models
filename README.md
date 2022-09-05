@@ -13,7 +13,7 @@ We are a Team of four students and below are the details.
 ## Table of Contents
 * [Overview](#Overview)
 * [The project status](#The-project-status)
-  + [Stage 1 Data Understanding and Linking](#stage-1-Data Understanding and Linking)
+  + [Stage 1 Data_Understanding_and_Linking](#stage-1- Data_Understanding_and_Linking)
   + [Stage 2 Data Modeling](#stage-2-data-modeling)
   + [Stage 3 Distributions and Hypothesis Testing](#stage-3-Distributions and Hypothesis Testing)
   + [Stage 4 Dashboard](#stage-4-Dasboard)
